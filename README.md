@@ -1,3 +1,4 @@
+<img src="portfolio_image.jpg" width=265, height:270> <img src="images/2.jpg" width=265, height:270> <img src="images/3.jpg" width=265, height:270>
 <h1 align="center">Hi 👋, I'm Nasir Mehmood</h1>
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
